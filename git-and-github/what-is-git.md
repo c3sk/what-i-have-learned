@@ -10,7 +10,7 @@ Some of the main features of Git are:
 
 ### It is distributed
 
-This means thet every developer working on the same project has a full local copy of the entire repository, including its history.
+This means that every developer working on the same project has a full local copy of the entire repository, including its history.
 
 ### It allows Branching and Merging
 
